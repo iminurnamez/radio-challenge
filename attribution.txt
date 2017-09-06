@@ -1,0 +1,74 @@
+LICENSES
+
+CC0                  http://creativecommons.org/publicdomain/zero/1.0/legalcode 
+CC-BY-NC 3.0    http://creativecommons.org/licenses/by-nc/3.0/
+CC-BY 3.0         http://creativecommons.org/licenses/by/3.0/legalcode
+CC-BY 4.0         http://creativecommons.org/licenses/by/4.0/legalcode
+
+Code is licensed CC0/Public Domain.
+
+MUSIC
+
+betcha_nickel.ogg
+Title: "Betcha' Nickel"
+Source: http://www.jazz-on-line.com/
+Creator: Ella Fitzgerald and Her Famous Orhcestra 
+License: Believed to be in the public domain
+
+buckin_the_dice.ogg
+Title: "Buckin' The Dice" 
+Source: http://www.jazz-on-line.com/
+Creator: Fats Waller and His Rhythm
+License: Believed to be in the public domain
+
+ace_in_the_hole.ogg
+Title: "Ace In The Hole" 
+Source: http://www.jazz-on-line.com/
+Creator: Ella Fitzgerald
+License: Believed to be in the public domain
+
+Lights.ogg
+Title: "Lights"
+Source: http://freemusicarchive.org/music/To_Eris/
+Creator: To Eris
+License: CC-BY 4.0
+
+Ultraspeed.ogg
+Title: "Ultraspeed"
+Source: http://freemusicarchive.org/music/To_Eris/
+Creator: To Eris
+License: CC-BY 4.0
+
+christmas-eve-at-midnight.ogg
+Source: http://freemusicarchive.org/music/Lee_Rosevere/A_Happy_Puppy_Christmas/LeeRosevere_01_ChristmasEveAtMidnight
+Creator:  Lee Rosevere  http://happypuppyrecords.ca/
+License: CC-BY-NC 3.0
+
+puzzle-1-a
+Source: http://opengameart.org/content/puzzle-tune-1
+Author:  http://rezoner.tumblr.com/ http://opengameart.org/users/rezoner
+License CC-BY 3.0
+
+The Crypt
+Source: http://opengameart.org/content/the-crypt
+Creator:  Michael Klier  http://opengameart.org/users/michael-klier http://www.m-klier.de/
+License: CC-BY-SA 3.0
+
+Wrong Rite Theme
+"Wrong Rite Theme" by Pierre Bondoerffer (@pbondoer)
+Source: http://opengameart.org/content/wrong-rite-theme
+Creator: Pierre Bondoerffer http://opengameart.org/users/pbondoer http://bondoer.fr/
+License: CC-BY-SA 3.0
+
+WTF! Ghost!
+Source: http://opengameart.org/content/wtf-ghost
+Creator: Alexandr Zhelanov https://soundcloud.com/alexandr-zhelanov http://opengameart.org/users/alexandr-zhelanov
+License: CC-BY 3.0
+
+
+GRAPHICS
+
+Radio Components
+Source: https://opengameart.org/content/audio-knobs-button-sliders-etc
+Creator: Osmic https://opengameart.org/users/osmic http://www.villeseppanen.com/
+License: CC-BY 3.0
