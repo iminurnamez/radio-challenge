@@ -31,7 +31,7 @@ class MusicHandler(object):
             pg.mixer.music.unpause()
         else:
             if pos:
-                pg.mixer.music.play(start=pos)
+                pg.mixer.music.play(1, pos)
 
     def pause(self):
         pg.mixer.music.pause()
